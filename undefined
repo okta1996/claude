@@ -1,0 +1,9 @@
+import Claude from "../components/Claude";
+
+export default function ClaudeStoryboard() {
+  return (
+    <div className="bg-white p-4">
+      <Claude />
+    </div>
+  );
+}
