@@ -1,0 +1,5 @@
+node_modules
+dist
+**/tempobook/dynamic/
+**/tempobook/storyboards/
+.DS_Store
